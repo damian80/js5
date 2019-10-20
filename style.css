@@ -1,0 +1,13 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.five {
+    text-align: center;
+    border: solid 1px green;
+    border-radius: 5px;
+    padding: 15px;
+}
